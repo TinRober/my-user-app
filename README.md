@@ -108,8 +108,8 @@ model LoginHistory {
 1️⃣ **Clonar o repositório**
 
 ``` bash
-git clone https://github.com/TinRober/MyUserApp.git
-cd MyUserApp
+git clone https://github.com/TinRober/my-user-app.git
+cd my-user-app
 ```
 
 2️⃣ **Instalar dependências**
