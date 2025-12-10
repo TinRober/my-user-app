@@ -108,7 +108,7 @@ model LoginHistory {
 1️⃣ **Clonar o repositório**
 
 ``` bash
-git clone https://github.com/TinRober/my-user-app.git
+git clone https://github.com/TinRober/my-user-app
 cd my-user-app
 ```
 
